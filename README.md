@@ -1,5 +1,5 @@
 ### Hi there, Tim here 👋
-*Software Developer | Frontend + Fullstack | Javascript, HTML5, CSS3, React, Svelte, Node*
+*Software Developer | Frontend + Fullstack | Javascript (React, Node, Svelte) + HTML + CSS*
 
 > Using my experience as a luthier and instrument designer to build instrument-like software: tools that are both simple & easily understood yet reward deeper interaction.
 
