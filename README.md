@@ -3,8 +3,8 @@
 
 > Using my experience as a luthier and instrument designer to build instrument-like software: tools that are both simple & easily understood yet reward deeper interaction.
 
-- 🔭 I’m searching for interesting fullstack & frontend opportunities.
-- 🌱 I’m currently learning Elementary Audio.
-- 👯 I’m looking to collaborate on almost anything!
-- 💬 Ask me about creative coding, learning to code as a self-taught developer, or music.
-- 📫 How to reach me: tim {at} bvwtgt {dot} xyz
+- 🔭 I’m wandering about at the intersection of technology and art.
+- 🌱 I’m working on data visualization and keeping up with the modern Javascript ecosystem.
+- 👯 I’m looking to collaborate on music software.
+- 💬 Ask me about learning to code as a self-taught developer.
+- 📫 How to reach me: tim {at} bvwtgt {dot} xyz.
