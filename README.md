@@ -1,5 +1,5 @@
 ### Hi there, Tim here 👋
-*Software Developer | Frontend + Fullstack | TS/JS + HTML + CSS*
+*Software Engineer | Frontend + Fullstack | Typescript*
 
 > Using my experience as a luthier and instrument designer to build instrument-like software: tools that are both simple & easily understood yet reward deeper interaction.
 
